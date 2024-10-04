@@ -1,0 +1,1 @@
+# plugins-widget-or-sidebar-per-shortcode
